@@ -1,4 +1,9 @@
 Mantener 8,5 de media
 67
 
+<<<<<<< HEAD
 Marcos Herrero Ruiz
+=======
+Marcos Prueba
+Sergio cree que sabe lo que hace.
+>>>>>>> origin
